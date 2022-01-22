@@ -24,9 +24,8 @@ export const GifGrid = ({category}) => {
     setImages(gifs);
   }
 
-
   return (
-    <>
+    <div className="card-grid">
       <h3> {category} </h3>
         {
           images.map((images) =>
@@ -36,6 +35,6 @@ export const GifGrid = ({category}) => {
             />
           )
         }
-    </>
+    </div>
   );
 }
