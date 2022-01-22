@@ -4,7 +4,7 @@ import { GifGrid } from './GifGrid';
 
 const GifExpertApp = () => {
   
-  const [categories, setCategories] = useState(['Saint Seiya']);
+  const [categories, setCategories] = useState(['Digimon']);
 
   return (
     <>
