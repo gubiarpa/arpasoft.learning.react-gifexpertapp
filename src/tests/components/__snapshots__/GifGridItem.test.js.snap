@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifGridItem /> Debe mostrar <GifGridItem /> correctamente 1`] = `
+<div
+  className="card animate__animated animate__fadeInUp"
+>
+  <img
+    alt="Saitama Sensei"
+    className="animate__animated animate__fadeInUp"
+    src="https://media0.giphy.com/media/Y3rwoQDYUOQBKF51Kw/giphy.gif?cid=9a21f0474a1u0ciz9b9isalrnop97x7oxtebvbpvr40htw7s&rid=giphy.gif&ct=s"
+  />
+  <p>
+    Saitama Sensei
+  </p>
+</div>
+`;
